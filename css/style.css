@@ -1,0 +1,12 @@
+html{
+    box-sizing: border-box;
+}
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+img{
+    max-width: 100%;
+}
+header{
+    background-image: url("../img/svg/header_banner.svg");
+}
